@@ -29,4 +29,4 @@ The dashboard should pop up with some basic analytics (views by category, posts 
 I think that's it for features, but I'll update if I come up with any more!
 
 ## Disclaimer
-Just wanted to leave a little note, this is pre-university code and it's very poorly documented and messy at times. I'm working away at cleaning it all up in my free time, but for the record, my newer code is *much* cleaner!
+Just wanted to leave a little note, this is pre-university code and it's very poorly documented and messy at times. I'm working away at cleaning it all up in my free time, but for the record, my newer code is *much* cleaner! Also, this is my first GitHub repo so please forgive me/let me know if you run into any issues trying to use it!
